@@ -1,0 +1,21 @@
+{
+    "name": "luacap/cakephp-helper",
+    "description": "Cakephp helper",
+    "type": "cakephp-plugin",
+    "keywords": ["test"],
+    "authors": [
+        {
+            "name": "Test"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CakeHelper\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.x-dev"
+        }
+    }
+}
