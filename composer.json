@@ -2,7 +2,7 @@
     "name": "luacap/cakephp-helper",
     "description": "Cakephp helper",
     "type": "cakephp-plugin",
-    "keywords": ["test"],
+    "keywords": ["test", "test 2"],
     "authors": [
         {
             "name": "Test"
